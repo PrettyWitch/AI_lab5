@@ -1,5 +1,5 @@
 # AI_lab5
-Laba 5: Add a search with a ranked parameter query on the recommendation system (make a mini survey in the input, set the price range and discount range):  
+Lab 5: Add a search with a ranked parameter query on the recommendation system (make a mini survey in the input, set the price range and discount range):  
 -Sorting method: used to add points for matching items.  
 -If nothing is found in the parameter query, similar objects are given
 ![image](https://github.com/PrettyWitch/AI_lab5/blob/master/image/lab5.png)  
